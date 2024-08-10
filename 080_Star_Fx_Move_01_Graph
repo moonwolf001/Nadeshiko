@@ -1,4 +1,4 @@
-# MoonWolf なでしこ３ チャレンジ　2024.7
+# MoonWolf（むーんうるふ） なでしこ３ チャレンジ　2024.7
 # 数学の関数に従い星が動き、その星をマウスで撃つゲーム Ver. 0.20
 # (c)2024 MoonWolf
 # 本プログラムはPCでの実行が望ましい
@@ -16,7 +16,7 @@
 #　Amazon Kindle    ：https://www.amazon.co.jp/dp/B0DCFZQ456
 #　Amazon Paoerback : https://www.amazon.co.jp/dp/B0DCS1L6BF
 # 
-#  MoonWolf Twitter(Ⅹ)　@MoonWolf_001　最新情報をお伝えしています。
+#  MoonWolfは、Twitter(Ⅹ)　@MoonWolf_001　にて、最新情報をお伝えしています。
 
 # カラーパレットの設定
 描画中キャンバスの「幅」に600をDOM属性設定。
